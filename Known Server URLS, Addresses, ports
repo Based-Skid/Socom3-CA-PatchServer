@@ -36,8 +36,15 @@ SVML
 https://hotexamples.com/examples/-/xsltprocessor/-/php-xsltprocessor-class-examples.html
 http://www.cs.cornell.edu/courses/cs431/2008sp/Lectures/public/lecture_2_11_08.pdf
 
-RSA BSAFE
-SCE-RT/Medius >> Obvious
+Suspected Vulnerable Software in the Game
+RSA BSAFE SSL-C or SSL-J Library may be present in the game (may also be back doored by the NSA) TOP Fucking KEK)
+
+SCE-RT/Medius >> Obviously encrypted with something. chances are RSA BSAFE and it can probably be assraped.
+See: http://www.eweek.com/security/rsa-bsafe-encryption-toolkits-offered-as-free-download
+https://www.cypherpunks.to/bsafeeay/
+https://www.theregister.co.uk/2001/09/14/ssl_toolkit_flaw_poses_risk/
+https://www.cvedetails.com/cve/CVE-2001-1105/
+https://www.cvedetails.com/vulnerability-list/vendor_id-964/product_id-32260/EMC-Rsa-Bsafe-Ssl-c.html
 ------------------------------------------------------------------
 --## Known User Agents ##--
 Socom CA "open sesame asdfjkl"
