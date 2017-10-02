@@ -1,1 +1,20 @@
+##These URLS and DOMAINS are no longer in Service and are here for reference purposes
+
+http://socom3html-prod.svo.pdonline.scea.com:10070/SOCOM3_HTML/content/Content_List.jsp?categoryID=0&subCategoryID=1
+
+Socom 3 patch - http://download-prod.online.scea.com/client-patch/socom3-prod/socom3/v2.3/TRIDENT0.ZDB
+
+Socom CA 1.4 - Patchhttp://download-prod.online.scea.com/client-patch/socom3-prod/socomca/v1.4/TRIDENT0.ZDB
+
+updates.pdonline.scea.com  << Something to do with Socom 2
+download-prod.online.scea.com << Patch "Server" Domain
+socomca.socom3-prod.svo.ps2.online.scea.com
+socomca.ps2.online.scea.com << Domain That is Looked up When Connecting to CA Universe AKA MUM 
+socomca.ps2.online.scea.com << Unconfirmed. Domain that is looked up when looking up the S3 Universe 
+socom3-prod.muis.pdonline.scea.com
+
+# DNAS addresses -- See DNASRep https://github.com/bobz1993/DNASrep
+gate1.jp.dnas.playstation.org
+gate1.eu.dnas.playstation.org
+gate1.us.dnas.playstation.org
 
