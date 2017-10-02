@@ -53,5 +53,6 @@ DNAS Bypass
 2029A2DC 24020001
 
 Kill DNAS (1.4 Patch) -For Testing with a Legally Backed up Disc -- Possibly Discovered by GTLCPIMP
+Note: This may kill the DNASmc function that I think encrypts gamesaves
 2029bd90 03E00008
 2029bd94 00000000
