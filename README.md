@@ -1,6 +1,6 @@
 # Socom3-CA-PatchServer
 
-## The Goal of this Project is to Create a "server" that allows for a Ps2 Running Socom 3 US Navy Seals or Socom Combined Assault to download the original game patches from the SCEA server and trick the ps2 into encrypting them with the built in DNAS function.
+## The Goal of this Project is to Create a "server" that allows for a Ps2 Running Socom 3 US Navy Seals or Socom Combined Assault to download the original game patches that originated from the SCEA server and trick the ps2 into encrypting them with the built in DNASMC function.
 
 ### This IS NOT a project attempting to revive any Socom Servers. You should probably write SCEA and ask them Nicely for The SCE-RT Sdk and the network middleware that goes along with it.
 
