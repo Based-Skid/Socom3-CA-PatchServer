@@ -1,0 +1,54 @@
+##These URLS and DOMAINS are no longer in Service and are here for reference purposes
+
+http://socom3html-prod.svo.pdonline.scea.com:10070/SOCOM3_HTML/content/Content_List.jsp?categoryID=0&subCategoryID=1
+https://socom3html-prod.svo.pdonline.scea.com:10079/SOCOM3_HTML/account/Account_Login.jsp
+Socom 3 patch - http://download-prod.online.scea.com/client-patch/socom3-prod/socom3/v2.3/TRIDENT0.ZDB
+Socom 3  Patch Download Submit jsp page http://socom3.socom3-prod.svo.ps2.online.scea.com:10060/SOCOM3_SVML/download/patchDownload_Submit.jsp
+Socom 3 Patch Download XML/JSP page (unconfirmed) http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/download/patchDownload_Submit.jsp
+
+Socom CA 1.4 - Patchhttp://download-prod.online.scea.com/client-patch/socom3-prod/socomca/v1.4/TRIDENT0.ZDB
+SCA Patch Download Submit jsp page http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/download/patchDownload_Submit.jsp
+SCA Patch Download XML/JSP page (unconfirmed) http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/download/patchDownload.jsp
+
+updates.pdonline.scea.com  << Something to do with Socom 2
+download-prod.online.scea.com << Patch "Server" Domain
+socomca.socom3-prod.svo.ps2.online.scea.com
+socomca.ps2.online.scea.com << Domain That is Looked up When Connecting to CA Universe AKA MUM 
+socom3.ps2.online.scea.com << Unconfirmed. Domain that is looked up when looking up the S3 Universe 
+socom3-prod.muis.pdonline.scea.com
+----------------------------------------------------------------------
+--## Known Ports Used by SCA/3 ##--
+80 (unconfirmed)
+443 -DNAS (possibly authentication)
+10060 - Potentially the MAS and/or MLS Definitely has something to do with telling the PS2 that there is an update for SOCOM
+10071 - Universe Server (Not Confirmed but heavily speculated)
+
+--## Suspected ports (unconfirmed) ##--
+10079 -- Authentication (logins)
+--------------------------------------------------------------------------------------------------------
+--## Suspectected Types of Software and Protocols invovled in Creating Any Component Needed for a Socom Server --##
+https://en.wikipedia.org/wiki/Java_Message_Service
+https://en.wikipedia.org/wiki/Message-oriented_middleware
+https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
+
+SVML
+https://hotexamples.com/examples/-/xsltprocessor/-/php-xsltprocessor-class-examples.html
+http://www.cs.cornell.edu/courses/cs431/2008sp/Lectures/public/lecture_2_11_08.pdf
+
+------------------------------------------------------------------
+--## Known User Agents ##--
+Socom CA "open sesame asdfjkl"
+--------------------------------------------------------------------
+# DNAS addresses -- See DNASRep https://github.com/bobz1993/DNASrep
+gate1.jp.dnas.playstation.org
+gate1.eu.dnas.playstation.org
+gate1.us.dnas.playstation.org
+
+
+SOCOM CA [NTSC][SCUS-975.45] I think this is for the Vanilla (unpatched) game -- Posted by harry62 
+DNAS Bypass
+2029A2DC 24020001
+
+Kill DNAS (1.4 Patch) -For Testing with a Legally Backed up Disc -- Possibly Discovered by GTLCPIMP
+2029bd90 03E00008
+2029bd94 00000000
