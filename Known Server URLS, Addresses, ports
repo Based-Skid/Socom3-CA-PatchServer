@@ -43,7 +43,7 @@ socom3-prod.muis.pdonline.scea.com
 --## Known Ports Used by SCA/3 ##--
 80 (unconfirmed)
 443 -DNAS (possibly authentication)
-10060 - Potentially the MAS and/or MLS Definitely has something to do with telling the PS2 that there is an update for SOCOM
+10060 - Potentially the MAS and/or MLS Definitely has something to do with telling the PS2 that there is an update for SOCOM. Defnitely has something to do with authentication
 10071 - Universe Server (Not Confirmed but heavily speculated)
 
 --## Suspected ports (unconfirmed) ##--
