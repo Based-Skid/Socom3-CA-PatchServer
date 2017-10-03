@@ -10,6 +10,29 @@ Socom CA 1.4 - Patchhttp://download-prod.online.scea.com/client-patch/socom3-pro
 SCA Patch Download Submit jsp page http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/download/patchDownload_Submit.jsp
 SCA Patch Download XML/JSP page (unconfirmed) http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/download/patchDownload.jsp
 
+More URLS that need to be sorted -- Thanks @ TheDominator~
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/home.jsp"/>
+https://socomca.socom3-prod.svo.ps2.online.scea.com:10061/SOCOMCA_SVML/account/Account_Login.jsp"/>
+https://socomca.socom3-prod.svo.ps2.online.scea.com:10061/SOCOMCA_SVML/account/Account_Encrypted_Login_Submit.jsp"/>
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/game/Game_Create.jsp?gameMode=%d"/>
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/game/Game_Finish_Submit.jsp"/>
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/game/Game_Create_Player_Submit.jsp?SVOGameID=%d&playerSide=%d"/>
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/ladder/Ladder_GetMatchData.jsp?ladderMatchID=%d"/>
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/ladder/Ladder_Forfeit_Submit.jsp?ladderMatchID=%d&clanID=%d"/>
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/teamtourney/TeamTourney_MatchData.jsp?teamTourID=%d"
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/teamtourney/TeamTourney_ForfeitTeam_Submit.jsp?teamTourTeamID=%d&teamTourBracketID=%d&teamTourID=%d"
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/download/patchDownload.jsp"
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/stats/Stats_CareerRankInfo.jsp?playerList="
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/stats/Stats_GetPlayerStats.jsp?PlayerID=%d"
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/profile/Profile_GetPlayerProfile.jsp?PlayerID=%d"
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/commerce/Commerce_VerifySubmit.jsp"
+https://socomca.socom3-prod.svo.ps2.online.scea.com:10061/SOCOMCA_SVML/commerce/Commerce_PurchaseList.jsp?categoryID=default"
+https://socomca.socom3-prod.svo.ps2.online.scea.com:10061/SOCOMCA_SVML/commerce/Commerce_GameCreatorFileVerification.jsp"
+https://socomca.socom3-prod.svo.ps2.online.scea.com:10061/SOCOMCA_SVML/commerce/Commerce_GameJoinerFileVerification.jsp"
+https://socomca.socom3-prod.svo.ps2.online.scea.com:10061/SOCOMCA_SVML/commerce/Commerce_GameSpectatorFileVerification.jsp"
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/awards/Awards_Insert_Submit.jsp?awardID=%d"/>
+http://socomca.socom3-prod.svo.ps2.online.scea.com:10060/SOCOMCA_SVML/gameevents/GameEvents_EventInfo.jsp?eventID=%d"
+
 updates.pdonline.scea.com  << Something to do with Socom 2
 download-prod.online.scea.com << Patch "Server" Domain
 socomca.socom3-prod.svo.ps2.online.scea.com
